@@ -10,7 +10,7 @@ a [Sails v1](https://sailsjs.com) application
 
 ### Install
 
-+ Требуется версия Node.js 10+
++ Требуется версия Node.js 10+ и MongooDB v3+
 + Скачивание репозитория `git clone https://github.com/Damassk/warehouse ./<folder name>`
 + Установка пакетов внутри директории проекта `npm install`
 + Запуск проекта `node app.js` (проект работает на порту: 1503)
